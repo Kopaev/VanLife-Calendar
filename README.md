@@ -21,6 +21,8 @@ VanLife Calendar – это **незаменимое приложение** дл
 
 ## 📥 Скачать приложение:  
 [![Скачать APK](https://img.shields.io/badge/📥_Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/Kopaev/VanLife-Calendar/releases/latest/download/VanLife-Calendar.apk)  
+[![Скачать в RuStore](https://img.shields.io/badge/📲_RuStore-доступно-blue?style=for-the-badge&logo=android)](https://www.rustore.ru/catalog/app/com.vanlife.calendar)
+
 
 ---
 
